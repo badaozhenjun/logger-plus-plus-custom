@@ -1,3 +1,9 @@
+自定义的地方
+![](https://adddd-1251699369.cos.ap-shanghai.myqcloud.com/20200412162909.png)
+主要是这个grep功能，使之能按时间顺序排列，并且能直观的显示出出现在请求内容里还是响应内容里，这样会更容易知道一个参数是从哪个请求开始出现的，特别是cookie
+
+
+
 Burp Suite Logger++
 =======================
 Sometimes it is necessary to log all the requests and responses of a specific tool in Burp Suite. Logger++ can log activities of all the tools in Burp Suite to show them in a sortable table. It also has an ability to save this data in CSV format.
